@@ -67,10 +67,6 @@ To contribute:
 
 Please ensure your code follows the project's coding standards and includes tests where appropriate.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Follow Me
 
 If you find this project useful, please consider following me on GitHub:
