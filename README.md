@@ -67,8 +67,8 @@ To contribute:
 
 Please ensure your code follows the project's coding standards and includes tests where appropriate.
 
-## Follow Me
+## Let's Connect 🤝
 
-If you find this project useful, please consider following me on GitHub:
+If you find this project useful, please consider connecting with me on GitHub:
 
 [Daley Mottley (dmotts)](https://github.com/dmotts)
