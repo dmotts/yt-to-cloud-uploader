@@ -1,6 +1,6 @@
 # YouTube to Google Drive Uploader
 
-This application allows users to download YouTube videos or playlists and upload them directly to their Google Drive. It leverages yt-dlp for downloading, Streamlit for the web interface, and the Google Drive API for file uploads.
+This application allows users to download YouTube videos or playlists and upload them directly to their Google Drive. 
 
 ## Features
 - **Google Sign-In**: Users can authenticate with their Google account to grant the app access to their Google Drive.
