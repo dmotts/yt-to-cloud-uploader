@@ -69,6 +69,6 @@ Please ensure your code follows the project's coding standards and includes test
 <hr>
 <h2 align="center"> 🌎 Let's Stay Connected 🤝 </h2>
 
-<p align="center"> If you liked this project and would like to see more features or show your support.</p>
+<p align="center"> If you like this project and would like to see more features or show your support.</p>
 <p align="center"> Feel free to reach out to the developer(s) and give this project a ⭐!</p>
 
