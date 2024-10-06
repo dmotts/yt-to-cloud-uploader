@@ -65,7 +65,7 @@ To contribute:
 
 5) Open a pull request.
 
-Please ensure your code follows the project's coding standards and includes tests where appropriate.
+***Please ensure your code follows the project's coding standards and includes tests where appropriate.***
 <hr>
 <h2 align="center"> 🌎 Let's Stay Connected 🤝 </h2>
 
