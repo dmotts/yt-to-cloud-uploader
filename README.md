@@ -1,4 +1,4 @@
-# YouTube to Google Drive Uploader
+# YouTube to Cloud Uploader
 
 This application allows users to download YouTube videos or playlists and upload them directly to their Google Drive. 
 
@@ -24,7 +24,7 @@ This application allows users to download YouTube videos or playlists and upload
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dmotts/yt-to-gdrive-uploader.git
+   git clone https://github.com/dmotts/yt-to-cloud-uploader.git
    cd yt-to-gdrive-uploader
    ```
 
