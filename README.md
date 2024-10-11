@@ -10,10 +10,11 @@ This application allows users to download YouTube videos or playlists and upload
 ✅ **Organize and Upload**: Automatically creates a 'Youtube Videos' folder in Google Drive and organizes playlist videos into subdirectories.
 
 ## Technologies Used 🛸 
-- **yt-dlp**: For downloading videos and playlists from YouTube.
-- **Streamlit**: For creating a user-friendly web interface.
-- **Google Drive API**: For managing and uploading files to Google Drive.
-- **OAuth2**: For Google user authentication and permissions.
+- [**yt-dlp**](https://github.com/yt-dlp/yt-dlp#readme): For downloading videos and playlists from YouTube.
+- [**Streamlit**](https://docs.streamlit.io/): For creating a user-friendly web interface.
+- [**Google Drive API**](https://developers.google.com/drive/api): For managing and uploading files to Google Drive.
+- [**OAuth2**](https://oauth.net/2/): For Google user authentication and permissions.
+
 
 ## Prerequisites 🐣
 
