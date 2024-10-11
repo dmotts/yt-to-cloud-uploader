@@ -68,7 +68,17 @@ To contribute:
 5) Open a pull request.
 
 <p align="center" ><strong><em>Please read our <a href="https://github.com/dmotts/yt-to-cloud-uploader/CONTRIBUTING.md" >Contributing Guidelines</a> to get started!</em></strong> 🚀</p>
+ 
+## Contributors
 
+<p align="center">
+  <a href="https://github.com/dmotts">
+    <img src="https://github.com/dmotts.png" width="100" height="100" style="border-radius: 50%;" alt="dmotts"/>
+  </a>
+  <a href="https://github.com/Brijeshthummar02">
+    <img src="https://github.com/Brijeshthummar02.png" width="100" height="100" style="border-radius: 50%;" alt="Brijeshthummar02"/>
+  </a> 
+</p>
 
 <p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
 <hr>
