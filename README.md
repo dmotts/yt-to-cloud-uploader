@@ -52,6 +52,11 @@ This application allows users to download YouTube videos or playlists and upload
 - **Authenticate with Google**: On first run, click on the "Sign in with Google" button to authenticate and authorize the application to access your Google Drive.
 - **Download and Upload**: Enter the URL of the YouTube video or playlist, click "Download and Upload", and the app will download the content and upload it to your Google Drive in a 'Youtube Videos' folder.
 
+## Help Wanted 🪧
+
+- [ ] **OneDrive API Setup & Integration**: Add OneDrive as a cloud storage option.
+- [ ] **Dropbox API Setup & Integration**: Add Dropbox as a cloud storage option.
+
 ## Report A Bug 🪰
 
 If you encounter any issues or have questions, feel free to [open an issue](https://github.com/dmotts/yt-to-cloud-uploader/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D+) or reach out to the maintainers.
