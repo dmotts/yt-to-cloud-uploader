@@ -1,4 +1,4 @@
-<h1 align="center">  📽️📺YouTube to Cloud Uploader 🪂🌥️ </h1>
+<h1 align="center">  📽️📥 YouTube to Cloud Uploader 🪂🌥️ </h1>
 
 This application allows users to download YouTube videos or playlists and upload them directly to their Google Drive. 
 
