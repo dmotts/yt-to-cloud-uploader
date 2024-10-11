@@ -82,7 +82,9 @@ To contribute:
   </a>
   <a href="https://github.com/Brijeshthummar02">
     <img src="https://github.com/Brijeshthummar02.png" width="100" height="100" style="border-radius: 50%;" alt="Brijeshthummar02"/>
-  </a> 
+  </a>
+  <a href="https://github.com/Brijeshthummar02">
+    <img src="https://github.com/swarupn17.png" width="100" height="100" style="border-radius: 50%;" alt="swarupn17"/>
 </p>
 
 <p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
