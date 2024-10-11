@@ -69,7 +69,7 @@ To contribute:
 
 ***Please ensure your code follows the project's coding standards and includes tests where appropriate.***
 
-<p align="center">🫶 <em>Thank you for your support! 🙌</em> </p>
+<p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
 <hr>
 <h2 align="center"> 🌎 Let's Stay Connected 🤜🤛 </h2>
 
