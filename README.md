@@ -1,5 +1,10 @@
-<h1 align="center">  📽️📥 YouTube to Cloud Uploader 🪂🌥️ </h1>
-
+<h1 align="center">  📽️📥 YouTube to Cloud Uploader 🪂🌥️ </h1><div align="center">
+<p align="center">
+<a href="https://github.com/dmotts/yt-to-cloud-uploader/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title=%5BFeature+Request%5D+">Request Feature</a>
+     ·
+    <a href="https://github.com/dmotts/yt-to-cloud-uploader/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D+">Report Bug</a>
+ 
+</p>
 This application allows users to download YouTube videos or playlists and upload them directly to their Google Drive. 
 
 ## Features 📰
