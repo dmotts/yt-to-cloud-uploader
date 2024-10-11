@@ -54,8 +54,8 @@ This application allows users to download YouTube videos or playlists and upload
 
 ## Help Wanted 🪧
 
-- [ ] **OneDrive API Setup & Integration**: Add OneDrive as a cloud storage option.
-- [ ] **Dropbox API Setup & Integration**: Add Dropbox as a cloud storage option.
+- [ ] **OneDrive API Setup**: Add OneDrive as a cloud storage option.
+- [ ] **Dropbox API Setup**: Add Dropbox as a cloud storage option.
 
 ## Report A Bug 🪰
 
