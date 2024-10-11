@@ -67,7 +67,7 @@ To contribute:
 
 5) Open a pull request.
 
-***Please ensure your code follows the project's coding standards and includes tests where appropriate.***
+***Please read our [Contributing Guidelines](CONTRIBUTING.md) to get started! 🚀***
 
 <p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
 <hr>
