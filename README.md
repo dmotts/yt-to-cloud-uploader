@@ -53,7 +53,7 @@ This application allows users to download YouTube videos or playlists and upload
 
 ## Report A Bug 🪰
 
-If you encounter any issues or have questions, feel free to [open an issue](https://github.com/dmotts/customer-support-bot/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D+) or reach out to the maintainers.
+If you encounter any issues or have questions, feel free to [open an issue](https://github.com/dmotts/yt-to-cloud-uploader/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D+) or reach out to the maintainers.
 
 ## Contributions 🧑‍🔧👷‍♀️🏗️🏢
 
