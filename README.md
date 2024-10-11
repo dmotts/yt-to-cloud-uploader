@@ -71,7 +71,7 @@ To contribute:
 
 5) Open a pull request.
 
-<p align="center" ><strong><em>Please read our <a href="https://github.com/dmotts/yt-to-cloud-uploader/CONTRIBUTING.md" >Contributing Guidelines</a> to get started!</em></strong> 🚀</p>
+<p align="center" ><strong><em>Please read our <a href="https://github.com/dmotts/yt-to-cloud-uploader/blob/CONTRIBUTING.md" >Contributing Guidelines</a> to get started!</em></strong> 🚀</p>
  
 ## Contributors
 
