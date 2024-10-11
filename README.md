@@ -4,7 +4,9 @@ This application allows users to download YouTube videos or playlists and upload
 
 ## Features 📰
 ✅ **Google Sign-In**: Users can authenticate with their Google account to grant the app access to their Google Drive.
+
 ✅ **Download YouTube Content**: Supports downloading individual videos or entire playlists.
+
 ✅ **Organize and Upload**: Automatically creates a 'Youtube Videos' folder in Google Drive and organizes playlist videos into subdirectories.
 
 ## Technologies Used 🛸 
