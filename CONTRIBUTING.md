@@ -13,7 +13,7 @@ Click the "Fork" button on the top right of the repository to create a copy in y
 Clone your fork to your local machine:
 
 ```bash
-git clone https://github.com/your-username/yt-to-cloud-uploader.git
+git clone https://github.com/dmotts/yt-to-cloud-uploader.git
 cd yt-to-cloud-uploader
 ```
 
