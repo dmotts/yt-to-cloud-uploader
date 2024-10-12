@@ -109,7 +109,7 @@ Please adhere to the following code style guidelines:
 Run the application:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 Access the app in your browser at <http://localhost:8501>.

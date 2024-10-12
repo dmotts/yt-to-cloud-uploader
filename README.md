@@ -48,7 +48,7 @@ This application allows users to download YouTube videos or playlists and upload
 
 4. **Run the application:**
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 5. **Access the Streamlit app:**
