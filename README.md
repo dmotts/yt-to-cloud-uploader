@@ -97,6 +97,10 @@ To contribute:
   </a>
   <a href="https://github.com/swarupn17">
     <img src="https://github.com/swarupn17.png" width="100" height="100" style="border-radius: 50%;" alt="swarupn17"/>
+  </a>
+     <a href="https://github.com/HomerusJa">
+    <img src="https://github.com/HomerusJa.png" width="100" height="100" style="border-radius: 50%;" alt="HomerusJa" />
+  </a>
 </p>
 
 <p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
