@@ -107,7 +107,7 @@ To contribute:
 
 <p align="center" ><strong><em>Please read our <a href="https://github.com/dmotts/yt-to-cloud-uploader/blob/main/CONTRIBUTING.md" >Contributing Guidelines</a> to get started!</em></strong> 🚀</p>
 
-<h2 name="contributors" align="center">Say 'Hi' To Our Contributors</h2>
+<h2 name="contributors" align="center">Say 'Hi' To Our Contributors!</h2>
 
 <p align="center">
   <a href="https://github.com/dmotts">
