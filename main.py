@@ -2,11 +2,14 @@ import streamlit as st
 
 from core.gcloud import GoogleAuth, GoogleDriveService
 from core.youtube import YouTubeDownloader, YouTubeDriveUploader
+from core import base
 
 CLIENT_SECRETS_FILE = 'client_secrets.json'  # Path to your OAuth2 client secrets file
 
 
 def main():
+    auth: base.Auth = None
+
     st.title("YouTube to Google Drive Uploader")
 
     google_logo_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png"
@@ -15,9 +18,13 @@ def main():
             f'<a href="#" class="btn btn-primary"><img src="{google_logo_url}" width="20" height="20" alt="Google Sign In" /> Sign in with Google</a>',
             unsafe_allow_html=True
         )
-        auth = GoogleAuth()
+        auth = GoogleAuth(CLIENT_SECRETS_FILE)
         auth.sign_in()
         st.success("Successfully signed in!")
+
+    if not auth:
+        st.warning("Please sign in to continue.")
+        return
 
     creds = auth.get_credentials()
     if creds:
