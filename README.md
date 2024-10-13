@@ -63,6 +63,7 @@ This application allows users to download YouTube videos or playlists and upload
 
 - [ ] **OneDrive API Setup**: Add OneDrive as a cloud storage option.
 - [ ] **Dropbox API Setup**: Add Dropbox as a cloud storage option.
+- [ ] **Landing Page**: Convert the frontend from streamlit to a user-friendly, attractive and simple landing page..
 - [ ] **Authentication**: Add user sign in authentication.
 
 ## Report A Bug 🪰
