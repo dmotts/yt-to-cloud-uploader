@@ -7,6 +7,25 @@
  
 </p>
 
+<div align="center">
+<p>
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/dmotts/yt-to-cloud-uploader)
+![GitHub Repo stars](https://img.shields.io/github/stars/dmotts/yt-to-cloud-uploader)
+![GitHub contributors](https://img.shields.io/github/contributors/dmotts/yt-to-cloud-uploader)
+![GitHub last commit](https://img.shields.io/github/last-commit/dmotts/yt-to-cloud-uploader)
+![GitHub repo size](https://img.shields.io/github/repo-size/dmotts/yt-to-cloud-uploader)
+![GitHub total lines](https://sloc.xyz/github/dmotts/yt-to-cloud-uploader)
+![Github](https://img.shields.io/github/license/dmotts/yt-to-cloud-uploader)
+![GitHub issues](https://img.shields.io/github/issues/dmotts/yt-to-cloud-uploader)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dmotts/yt-to-cloud-uploader)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dmotts/yt-to-cloud-uploader)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dmotts/yt-to-cloud-uploader)
+</p>
+</div>
+
 This application allows users to download YouTube videos or playlists and upload them directly to their Google Drive. 
 
 ## Features 📰
@@ -88,7 +107,7 @@ To contribute:
 
 <p align="center" ><strong><em>Please read our <a href="https://github.com/dmotts/yt-to-cloud-uploader/blob/main/CONTRIBUTING.md" >Contributing Guidelines</a> to get started!</em></strong> 🚀</p>
 
-<h2 name="contributors" align="center">Contributors</h2>
+<h2 name="contributors" align="center">Say 'Hi' To Our Contributors!</h2>
 
 <p align="center">
   <a href="https://github.com/dmotts">
