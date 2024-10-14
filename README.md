@@ -122,6 +122,10 @@ To contribute:
      <a href="https://github.com/HomerusJa">
     <img src="https://github.com/HomerusJa.png" width="100" height="100" style="border-radius: 50%;" alt="HomerusJa" />
   </a>
+  <a href="https://github.com/shawaiz-khan">
+    <img src="https://github.com/shawaiz-khan.png" width="100" height="100" style="border-radius: 50%;" alt="shawaiz-khan" />
+  </a>
+     
 </p>
 
 <p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
