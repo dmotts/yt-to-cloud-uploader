@@ -1,0 +1,40 @@
+name: Update Requirements
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  update-requirements:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+        with:
+          plugins: poetry-plugin-export
+          virtualenvs-in-project: true
+          virtualenvs-path: .venv
+
+      - name: Export requirements.txt
+        run: poetry export --without-hashes -f requirements.txt -o requirements.txt
+
+      - name: Check for changes
+        run: |
+          git diff --exit-code requirements.txt || echo "Changes detected"
+
+      - name: Create Pull Request
+        if: success() && steps.check-for-changes.outputs.changes == 'true'
+        uses: peter-evans/create-pull-request@v3
+        with:
+          title: "Update requirements.txt"
+          body: "Automatically updated requirements.txt"
+          base: main
+          head: update-requirements-branch
