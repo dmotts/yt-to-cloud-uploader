@@ -11,25 +11,25 @@ class Auth(Protocol):
         ...
 
 
-class Service(Protocol):
-    def create_folder(self, folder_name, parent_id=None):
+class StorageService(Protocol):
+    def create_folder(self, folder_name: str, parent_id=None):
         ...
 
-    def upload_file(self, file_path, folder_id):
-        ...
-
-
-class Downloader(Protocol):
-    def download_video(self, url):
-        ...
-
-    def download_playlist(self, url):
+    def upload_file(self, file_path: str, folder_id):
         ...
 
 
-class Uploader(Protocol):
-    def upload_video(self, video_path):
+class VideoDownloader(Protocol):
+    def download_video(self, url: str):
         ...
 
-    def upload_playlist(self, video_paths, playlist_title):
+    def download_playlist(self, url: str):
+        ...
+
+
+class VideoUploader(Protocol):
+    def upload_video(self, video_path: str):
+        ...
+
+    def upload_playlist(self, video_paths: str, playlist_title: str):
         ...

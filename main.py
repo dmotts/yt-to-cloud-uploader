@@ -19,8 +19,13 @@ def main():
             unsafe_allow_html=True
         )
         auth = GoogleAuth(CLIENT_SECRETS_FILE)
-        auth.sign_in()
-        st.success("Successfully signed in!")
+
+        try:
+            auth.sign_in()
+        except FileNotFoundError:
+            st.error("Client secrets file not found.")
+        else:
+            st.success("Successfully signed in!")
 
     if not auth:
         st.warning("Please sign in to continue.")

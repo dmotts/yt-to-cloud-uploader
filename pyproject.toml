@@ -21,6 +21,7 @@ exclude = [".cache"]
 # https://beta.ruff.rs/docs/configuration/
 select = ['E', 'W', 'F', 'I', 'B', 'C4', 'ARG', 'SIM']
 ignore = ['W291', 'W292', 'W293']
+line_length = 120
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
