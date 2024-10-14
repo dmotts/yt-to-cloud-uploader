@@ -3,6 +3,7 @@ name: Update Requirements
 on:
   pull_request:
     types: [opened, synchronize]
+  workflow_dispatch:
 
 jobs:
   update-requirements:
