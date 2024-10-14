@@ -1,4 +1,4 @@
-"""Implementation of the protocols defined in base.py for the Gooogle Cloud Platform.
+"""Implementation of the protocols defined in base.py for the Google Cloud Platform.
 
 Here is a mapping of the protocols to the classes and methods in this module:
 Auth -> GoogleAuth
@@ -18,20 +18,22 @@ SCOPES = ['https://www.googleapis.com/auth/drive.file']
 
 class GoogleAuth:
     def __init__(self, client_secrets_file: str):
-        self.creds = None
-        self.client_secrets_file = client_secrets_file
+        self.creds: Credentials = None
+        self.client_secrets_file: str = client_secrets_file
 
     def sign_in(self):
-        if 'token.json' in os.listdir():
-            self.creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+        TOKEN_FILE = 'token.json'
+
+        if TOKEN_FILE in os.listdir():
+            self.creds = Credentials.from_authorized_user_file(TOKEN_FILE, SCOPES)
         if not self.creds or not self.creds.valid:
-            if self.creds and self.creds.expired and shecreds.refresh_token:
+            if self.creds and self.creds.expired and self.creds.refresh_token:
                 self.creds.refresh(Request())
             else:
                 flow = InstalledAppFlow.from_client_secrets_file(
                     self.client_secrets_file, SCOPES)
                 self.creds = flow.run_local_server(port=0)
-            with open('token.json', 'w') as token:
+            with open(TOKEN_FILE, 'w') as token:
                 token.write(self.creds.to_json())
 
     def get_credentials(self):

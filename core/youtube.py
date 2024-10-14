@@ -46,7 +46,7 @@ class YouTubeDownloader:
 
 
 class YouTubeDriveUploader:
-    def __init__(self, drive_service: base.Service):
+    def __init__(self, drive_service: base.StorageService):
         self.drive_service = drive_service
 
     def upload_video(self, video_path: str):
