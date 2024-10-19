@@ -1,0 +1,22 @@
+name: Ruff
+on: [ push, pull_request ]
+jobs:
+  ruff:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      - name: Sort imports
+        uses: astral-sh/ruff-action@v1.1.1
+        with:
+          src: "./backend/app"
+          args: "lint --select I --fix"
+
+      - name: Format code
+        uses: astral-sh/ruff-action@v1.1.1
+        with:
+          src: "./backend/app"
+          args: "format"
+
+  # TODO: Add a job to run the frontend linting and formatting
