@@ -1,7 +1,4 @@
 <h1 align="center">  📽️📥 YouTube to Cloud Uploader 🪂🌥️ </h1>
-<div align="center">
-<img src="https://github.com/dmotts/yt-to-cloud-uploader/blob/main/public/Logo-1.png" alt="logo" width="320" height="320"  />
-</div>
 
 <p align="center">
 <a href="https://github.com/dmotts/yt-to-cloud-uploader/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title=%5BFeature+Request%5D+">Request Feature</a>
@@ -9,8 +6,6 @@
     <a href="https://github.com/dmotts/yt-to-cloud-uploader/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D+">Report Bug</a>
  
 </p>
-
-<p align="center"><a href="https://github.com/dmotts/yt-to-cloud-uploader/blob/main/CONTRIBUTING.md">Contributing Guidelines & Code of Conduct</a></p>
 
 <div align="center">
 <p>
@@ -127,10 +122,6 @@ To contribute:
      <a href="https://github.com/HomerusJa">
     <img src="https://github.com/HomerusJa.png" width="100" height="100" style="border-radius: 50%;" alt="HomerusJa" />
   </a>
-  <a href="https://github.com/shawaiz-khan">
-    <img src="https://github.com/shawaiz-khan.png" width="100" height="100" style="border-radius: 50%;" alt="shawaiz-khan" />
-  </a>
-     
 </p>
 
 <p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>

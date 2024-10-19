@@ -1,5 +1,9 @@
 # Contributing to YouTube to Cloud Uploader
 
+**TODO: Update the contributing guidelines**
+- Differentiate between frontend and backend contributions
+- Mention switch to uv
+
 Thank you for considering contributing to the **YouTube to Cloud Uploader** project! We appreciate your help in improving this application and making it more useful for everyone.
 
 ## How to Contribute
