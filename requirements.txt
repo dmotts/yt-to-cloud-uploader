@@ -1,0 +1,6 @@
+fastapi[standard]
+streamlit==1.9.0
+yt-dlp==2021.12.1
+google-api-python-client==2.31.0
+google-auth-oauthlib==0.4.6
+
