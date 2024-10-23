@@ -133,7 +133,12 @@ To contribute:
   <a href="https://github.com/KrinsKumar">
     <img src="https://github.com/KrinsKumar.png" width="100" height="100" style="border-radius: 50%;" alt="KrinsKumar" />
   </a>
+  <a href="https://github.com/Akshay-66">
+    <img src="https://github.com/Akshay-66.png" width="100" height="100" style="border-radius: 50%;" alt="Akshay-66" />
+  </a>
+     
 </p>
+
 
 <p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
 <hr>
