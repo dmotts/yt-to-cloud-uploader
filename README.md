@@ -136,6 +136,9 @@ To contribute:
   <a href="https://github.com/Akshay-66">
     <img src="https://github.com/Akshay-66.png" width="100" height="100" style="border-radius: 50%;" alt="Akshay-66" />
   </a>
+  <a href="https://github.com/RedLordezh7Venom">
+    <img src="https://github.com/RedLordezh7Venom" width="100" height="100" style="border-radius: 50%;" alt="Akshay-66" />
+  </a>
      
 </p>
 
